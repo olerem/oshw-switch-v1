@@ -74,6 +74,18 @@
         (name "IBA" (effects (font (size 1.27 1.27))))
         (number "67" (effects (font (size 1.27 1.27))))
       )
+      (pin unconnected line (at -2.54 17.78 270) (length 2.54) hide
+        (name "NC" (effects (font (size 1.27 1.27))))
+        (number "73" (effects (font (size 1.27 1.27))))
+      )
+      (pin unconnected line (at 0 17.78 270) (length 2.54) hide
+        (name "NC" (effects (font (size 1.27 1.27))))
+        (number "74" (effects (font (size 1.27 1.27))))
+      )
+      (pin unconnected line (at 2.54 19.05 270) (length 3.81) hide
+        (name "NC" (effects (font (size 1.27 1.27))))
+        (number "108" (effects (font (size 1.27 1.27))))
+      )
     )
     (symbol "KSZ9477S_2_1"
       (rectangle (start -10.16 15.24) (end 10.16 -15.24)
