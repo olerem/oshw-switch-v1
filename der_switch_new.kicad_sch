@@ -581,7 +581,7 @@
     (property "Value" "KSZ9477S" (id 1) (at 259.08 124.46 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_QFP:TQFP-128_14x14mm_P0.4mm" (id 2) (at 233.426 144.272 0)
+    (property "Footprint" "footprints:TQFP-128_14x14mm_P0.4mm_EP10x10mm_ThermalVias" (id 2) (at 233.426 144.272 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://ww1.microchip.com/downloads/en/DeviceDoc/KSZ9477S-Data-Sheet-DS00002392C.pdf" (id 3) (at 247.65 38.1 0)
@@ -594,7 +594,7 @@
     (uuid "80ef473c-1a77-4105-9e67-974a5bdd257e")
     (property "Reference" "U1" (id 0) (at 62.23 21.59 0))
     (property "Value" "KSZ9477S" (id 1) (at 62.23 24.13 0))
-    (property "Footprint" "Package_QFP:TQFP-128_14x14mm_P0.4mm" (id 2) (at 46.736 62.992 0)
+    (property "Footprint" "footprints:TQFP-128_14x14mm_P0.4mm_EP10x10mm_ThermalVias" (id 2) (at 46.736 62.992 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://ww1.microchip.com/downloads/en/DeviceDoc/KSZ9477S-Data-Sheet-DS00002392C.pdf" (id 3) (at 60.96 -43.18 0)
@@ -611,7 +611,7 @@
     (property "Value" "KSZ9477S" (id 1) (at 214.63 106.68 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_QFP:TQFP-128_14x14mm_P0.4mm" (id 2) (at 182.626 126.492 0)
+    (property "Footprint" "footprints:TQFP-128_14x14mm_P0.4mm_EP10x10mm_ThermalVias" (id 2) (at 182.626 126.492 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://ww1.microchip.com/downloads/en/DeviceDoc/KSZ9477S-Data-Sheet-DS00002392C.pdf" (id 3) (at 196.85 20.32 0)
@@ -653,13 +653,13 @@
 
   (symbol_instances
     (path "/80ef473c-1a77-4105-9e67-974a5bdd257e"
-      (reference "U1") (unit 1) (value "KSZ9477S") (footprint "Package_QFP:TQFP-128_14x14mm_P0.4mm")
+      (reference "U1") (unit 1) (value "KSZ9477S") (footprint "footprints:TQFP-128_14x14mm_P0.4mm_EP10x10mm_ThermalVias")
     )
     (path "/21ac9210-ce64-4f1c-8b3c-e40224109109"
-      (reference "U1") (unit 7) (value "KSZ9477S") (footprint "Package_QFP:TQFP-128_14x14mm_P0.4mm")
+      (reference "U1") (unit 7) (value "KSZ9477S") (footprint "footprints:TQFP-128_14x14mm_P0.4mm_EP10x10mm_ThermalVias")
     )
     (path "/8afa4008-8209-42cc-9fef-0c59ffa66b4d"
-      (reference "U1") (unit 8) (value "KSZ9477S") (footprint "Package_QFP:TQFP-128_14x14mm_P0.4mm")
+      (reference "U1") (unit 8) (value "KSZ9477S") (footprint "footprints:TQFP-128_14x14mm_P0.4mm_EP10x10mm_ThermalVias")
     )
     (path "/71aecc81-5a5e-4293-ac09-31c20a082000/64182846-cada-49dd-8527-6959da40f69f"
       (reference "#PWR0101") (unit 1) (value "+1V2") (footprint "")
@@ -815,7 +815,7 @@
       (reference "C38") (unit 1) (value "22 uF") (footprint "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder")
     )
     (path "/71aecc81-5a5e-4293-ac09-31c20a082000/9e4a7f6b-5383-44a7-b0de-9b68ac0e96b4"
-      (reference "U1") (unit 9) (value "KSZ9477S") (footprint "Package_QFP:TQFP-128_14x14mm_P0.4mm")
+      (reference "U1") (unit 9) (value "KSZ9477S") (footprint "footprints:TQFP-128_14x14mm_P0.4mm_EP10x10mm_ThermalVias")
     )
     (path "/33923bc8-5675-46d6-90be-4bb312e65519/a0f59906-4c59-4b83-9dc6-53f2550f4015"
       (reference "#PWR0114") (unit 1) (value "Earth") (footprint "")
@@ -851,7 +851,7 @@
       (reference "R3") (unit 1) (value "330") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/33923bc8-5675-46d6-90be-4bb312e65519/3e63a1df-1271-48f3-b68c-81f417692ad7"
-      (reference "U1") (unit 6) (value "KSZ9477S") (footprint "Package_QFP:TQFP-128_14x14mm_P0.4mm")
+      (reference "U1") (unit 6) (value "KSZ9477S") (footprint "footprints:TQFP-128_14x14mm_P0.4mm_EP10x10mm_ThermalVias")
     )
     (path "/33923bc8-5675-46d6-90be-4bb312e65519/5b33dfef-7c88-4a53-adf9-8d0c01072e7c/708f89c6-cb28-4190-913e-6f6103f78790"
       (reference "#PWR0116") (unit 1) (value "GND") (footprint "")
@@ -920,10 +920,10 @@
       (reference "R7") (unit 1) (value "330") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/33923bc8-5675-46d6-90be-4bb312e65519/5b33dfef-7c88-4a53-adf9-8d0c01072e7c/ff5fbc13-5ce9-4122-a56a-496076beffc2"
-      (reference "U1") (unit 2) (value "KSZ9477S") (footprint "Package_QFP:TQFP-128_14x14mm_P0.4mm")
+      (reference "U1") (unit 2) (value "KSZ9477S") (footprint "footprints:TQFP-128_14x14mm_P0.4mm_EP10x10mm_ThermalVias")
     )
     (path "/33923bc8-5675-46d6-90be-4bb312e65519/5b33dfef-7c88-4a53-adf9-8d0c01072e7c/860177f5-e5f9-4667-bdf1-260227f40112"
-      (reference "U1") (unit 3) (value "KSZ9477S") (footprint "Package_QFP:TQFP-128_14x14mm_P0.4mm")
+      (reference "U1") (unit 3) (value "KSZ9477S") (footprint "footprints:TQFP-128_14x14mm_P0.4mm_EP10x10mm_ThermalVias")
     )
     (path "/33923bc8-5675-46d6-90be-4bb312e65519/c8a14ab9-546c-463a-ad16-fe3e65a560b9/eb7b83be-b0ce-45b6-906a-1b3b0cc9f6ff"
       (reference "#PWR0120") (unit 1) (value "Earth") (footprint "")
@@ -992,10 +992,10 @@
       (reference "R10") (unit 1) (value "330") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/33923bc8-5675-46d6-90be-4bb312e65519/c8a14ab9-546c-463a-ad16-fe3e65a560b9/639c0f21-cd49-4621-910a-9ec66a1169ab"
-      (reference "U1") (unit 4) (value "KSZ9477S") (footprint "Package_QFP:TQFP-128_14x14mm_P0.4mm")
+      (reference "U1") (unit 4) (value "KSZ9477S") (footprint "footprints:TQFP-128_14x14mm_P0.4mm_EP10x10mm_ThermalVias")
     )
     (path "/33923bc8-5675-46d6-90be-4bb312e65519/c8a14ab9-546c-463a-ad16-fe3e65a560b9/08269ac5-7f42-4ff7-a5e8-908b55ba521c"
-      (reference "U1") (unit 5) (value "KSZ9477S") (footprint "Package_QFP:TQFP-128_14x14mm_P0.4mm")
+      (reference "U1") (unit 5) (value "KSZ9477S") (footprint "footprints:TQFP-128_14x14mm_P0.4mm_EP10x10mm_ThermalVias")
     )
   )
 )

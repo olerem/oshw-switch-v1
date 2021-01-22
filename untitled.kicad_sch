@@ -2420,7 +2420,7 @@
     (uuid "9e4a7f6b-5383-44a7-b0de-9b68ac0e96b4")
     (property "Reference" "U1" (id 0) (at 180.34 44.45 0))
     (property "Value" "KSZ9477S" (id 1) (at 180.34 46.99 0))
-    (property "Footprint" "Package_QFP:TQFP-128_14x14mm_P0.4mm" (id 2) (at 164.846 85.852 0)
+    (property "Footprint" "footprints:TQFP-128_14x14mm_P0.4mm_EP10x10mm_ThermalVias" (id 2) (at 164.846 85.852 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://ww1.microchip.com/downloads/en/DeviceDoc/KSZ9477S-Data-Sheet-DS00002392C.pdf" (id 3) (at 179.07 -20.32 0)
